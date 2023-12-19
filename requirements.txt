@@ -1,0 +1,7 @@
+
+chat-downloader
+google-generativeai
+playsound==1.2.2
+edge-tts
+# googletrans
+googletrans==3.1.0a0
